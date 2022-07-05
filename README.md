@@ -1,2 +1,11 @@
-# fresh-imageboard
-Trying out Deno &amp; Fresh with a basic full-stack imageboard project.
+# fresh project
+
+### Usage
+
+Start the project:
+
+```
+deno task start
+```
+
+This will watch the project directory and restart as necessary.
